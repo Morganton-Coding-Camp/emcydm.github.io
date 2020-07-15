@@ -70,6 +70,13 @@ iframe {
   padding: 1rem;
 }
 
+.banner {
+  min-height: 25vh;
+  padding: 5rem 1rem;
+  background-img: url('../cement-color-concrete-design-1260727.jpg');
+  background-position: center; 
+}
+  
 .profile-img {
   max-height: 50vh;
   width: auto; 
