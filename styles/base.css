@@ -74,7 +74,9 @@ iframe {
   min-height: 25vh;
   padding: 5rem 1rem;
   background-image: url('../abstract-painting-2894260.jpg');
-  background-position: center; 
+  background-position: center;
+  background-repeat: no-repeat;
+  object-fit: cover; 
 }
   
 .profile-img {
