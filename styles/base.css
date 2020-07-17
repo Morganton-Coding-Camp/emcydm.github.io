@@ -83,7 +83,7 @@ iframe {
 .banner-text{
   display: inline-block;
   margine: auto;
-  padding: 3rem;
+  padding: 1rem 2rem;
   width: auto;
   text-align: right;
   background: #1a1a1a;
