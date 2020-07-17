@@ -101,25 +101,25 @@ iframe {
 }
 
 .favorites-icecream {
-  background: #a6a6a6
+  background: #a6a6a6;
 }
 
 .favorites-sport {
-  background: #2c4863
+  background: #2c4863;
 }
 
 .media-video {
-  font size: 1rem 
+  font-size: 1.5rem;
 }
-
+  
 .favorites-vacation {
-  background: #002b54
+  background: #002b54;
 }
 
 .footer {
   text-align:center;
   padding: 2rem;
-  font-size: 1.5em;
+  font-size: 1.5rem;
 }
 
 .btn-1 {
