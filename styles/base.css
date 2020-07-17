@@ -71,8 +71,8 @@ iframe {
 }
 
 .banner {
-  min-height: 18vh;
-  padding: 4rem .5rem;
+  min-height: 20vh;
+  padding: 4rem 1rem;
   background-image: url('../light-landscape-nature-red-33041.jpg');
   background-position: center;
   background-repeat: no-repeat;
