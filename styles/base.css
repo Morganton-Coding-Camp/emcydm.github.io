@@ -109,7 +109,9 @@ iframe {
 }
 
 .media-video {
-  font-size: 1.5rem;
+  font-size: 2rem;
+  font-weight: 900;
+  margin-bottom: 1rem;
   max-width: 50%;
 }
   
