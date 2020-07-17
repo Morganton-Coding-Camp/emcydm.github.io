@@ -110,6 +110,7 @@ iframe {
 
 .media-video {
   font-size: 1.5rem;
+  max-width: 50%;
 }
   
 .favorites-vacation {
