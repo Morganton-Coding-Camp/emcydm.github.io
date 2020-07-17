@@ -100,6 +100,18 @@ iframe {
   border-radius: 50%;
 }
 
+.favorites-icecream {
+  background: #a6a6a6
+}
+
+.favorites-sport {
+  background: #aa5656
+}
+
+.favorites-vacation {
+  background: #c04141
+}
+
 .footer {
   text-align:center;
   padding: 2rem;
